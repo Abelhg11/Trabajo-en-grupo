@@ -1,2 +1,2 @@
 # Trabajo en grupo
-### El programa ahora convierte numeros binarios a decimales
+### El programa convierte numeros binarios a decimales y tambien convierte numeros binarios en hexadecimales.
